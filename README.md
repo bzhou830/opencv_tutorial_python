@@ -26,7 +26,10 @@ cv2.destroyAllWindows()
 ```
 ## 2. 使用Matplotlib显示图像
 
-
+安装MatPlotlib
+```python
+pip install matplotlib
+```
 
 
 
