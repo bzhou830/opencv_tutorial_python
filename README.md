@@ -1,8 +1,8 @@
 ## **<OpenCV轻松学> Python版**
 
-## 准备
+## 0. 准备
 
-### 1. 使用jupyter + RISE作为课件分享工具
+### 1. 使用jupyter + RISE制作课件
 
 ```python
 pip install jupyter
@@ -13,7 +13,6 @@ jupyter-nbextension install rise --py --sys-prefix
 jupyter-nbextension enable rise --py --sys-prefix
 
 ```
-
 
 ## 1. 安装OpenCV package for Python
 
